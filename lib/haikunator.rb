@@ -48,17 +48,24 @@ module Haikunator
         brook bush butterfly candle canyon cave cherry cloud color
         creek crescent darkness dawn dew diamond dove dream dust
         evening face feather field fire firefly flower fog forest
-        frog frost glade glitter grass hand haze heart hill ice
-        journey kitten lake leaf leave life light marionette meadow
-        mirror monk moon moonlight morning mountain nighfall night
-        orb origami paper pebble petal pine pond puppy rain rainbow
-        resonance retreat river rock sand scroll sea seed shadow
-        shape silence skin sky smile smoke snow snowflake someone
-        sound spring star stone summer sun sunset sunshine surf
-        sword tea temple thunder tree violet voice water waterfall
-        wave wheelhouse whisper wildflower wildness wind wood
-        world zen
+        frog frost glade glitter grass half hand haze heart hill
+        ice journey kitten lake leaf leave life light marionette
+        meadow mirror monk moon moonlight morning mountain nighfall
+        night orb origami paper pebble petal pine pond puppy quarter
+        rain rainbow resonance retreat river rock sand scroll sea
+        seed shadow shape silence skin sky smile smoke snow
+        snowflake someone sound spring star stone summer sun sunset
+        sunshine surf sword tea temple thunder tree violet voice
+        water waterfall wave wheelhouse whisper wildflower wildness
+        wind wood world zen one first two second three third four
+        fourth five fifth six sixth seven seventh eight eighth nine
+        ninth ten tenth eleven eleventh twelve twelfth thirteen
+        thirteenth fourteen fifteen sixteen sixteenth seventeen
+        seventeenth eighteen eighteenth nineteen nineteenth twenty
+        twentieth hundreds thousands millions many some
       ]
+
+
     end
   end
 end
