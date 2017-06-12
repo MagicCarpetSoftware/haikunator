@@ -27,7 +27,7 @@ module Haikunator
     evening face feather field fire firefly flower fog forest
     frog frost glade glitter grass half hand haze heart hill
     ice journey kitten lake leaf leave life light marionette
-    meadow mirror monk moon moonlight morning mountain nighfall
+    meadow mirror monk moon moonlight morning mountain nightfall
     night orb origami paper pebble petal pine pond puppy quarter
     rain rainbow resonance retreat river rock sand scroll sea
     seed shadow shape silence skin sky smile smoke snow
